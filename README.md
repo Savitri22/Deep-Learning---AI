@@ -9,13 +9,19 @@ Deep learning is a subset of machine learning, which is essentially a neural net
 
 It is a combination of linearity and non-linearity.
 
-## Installing factors
-pip install numpy
-pip install pandas
-pip install matplotlib
-pip install seaborn
-pip install statsmodels
-pip install sklearn
-pip install keras==2.6.0
-pip install tensorflow==2.6.2
+##Installing factors
+--pip install numpy
 
+--pip install pandas
+
+--pip install matplotlib
+
+--pip install seaborn
+
+--pip install statsmodels
+
+--pip install sklearn
+
+--pip install keras==2.6.0
+
+--pip install tensorflow==2.6.2
