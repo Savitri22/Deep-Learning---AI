@@ -8,3 +8,5 @@ Deep Learning really shines when it comes to complex problems such as image clas
 Deep learning is a subset of machine learning, which is essentially a neural network with three or more layers.
 
 It is a combination of linearity and non-linearity.
+
+# Installing factors
